@@ -1,4 +1,4 @@
-Progressive Web App budget tracker with offline functionality. 
+Progressive Web App budget tracker with offline functionality using webpack. 
 
 __URL to the deployed application:__ 
 
