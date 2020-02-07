@@ -1,5 +1,4 @@
 const FILES_TO_CACHE = [
-    "/",
     "/public/db.js",
     "/public/index.html",
     "/public/index.js",
