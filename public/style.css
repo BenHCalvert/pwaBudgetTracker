@@ -4,18 +4,21 @@
 
 body {
   font-size: 16px;
-  font-family: Arial;
+  font-family: 'Fira Sans', sans-serif;
   background-color: #F7FAFC;
+  color: #F7FAFC;
 }
 
 button,
 input {
   font-size: 1em;
   font-family: Arial;
+  padding: 7px;
 }
 
 label {
   font-weight: 900;
+  padding: 5px;
 }
 
 input {
@@ -48,6 +51,11 @@ button:active {
 
 table {
   width: 100%;
+}
+
+td {
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 .error {
